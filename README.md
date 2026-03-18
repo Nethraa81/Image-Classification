@@ -33,7 +33,7 @@ Color format: Grayscale (single channel)
 
 Import required libraries (torch, torchvision, numpy, sklearn).
 
-Load CIFAR-10 dataset.
+Load Fashion-MNIST dataset.
 
 Normalize the images.
 
