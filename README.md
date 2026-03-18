@@ -10,17 +10,17 @@ The objective of this experiment is to build and train a Convolutional Neural Ne
 
 ## Dataset
 
-For this experiment, the CIFAR-10 dataset is used.
+For this experiment, Fashion-MNIST dataset is used.
 
-Total Images: 60,000
+Total images: 70,000 grayscale images
 
-Training Images: 50,000
+Training set: 60,000 images
 
-Test Images: 10,000
+Test set: 10,000 images
 
-Number of Classes: 10
+Image size: 28 × 28 pixels
 
-Image Size: 32 × 32 × 3 (RGB)
+Color format: Grayscale (single channel)
 
 ## Neural Network Model
 
