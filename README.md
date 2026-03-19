@@ -62,8 +62,8 @@ Test prediction for a new image.
 
 ## PROGRAM
 
-### Name:
-### Register Number:
+### Name: NETHRAA N
+### Register Number: 212224040217
 ```python
 class CNNClassifier(nn.Module):
     def __init__(self):
